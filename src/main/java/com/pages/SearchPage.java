@@ -8,4 +8,8 @@ public class SearchPage {
 	{
 		System.out.println("Search Page method");
 	}
+	public void searchItems()
+	{
+		System.out.println("Search Page method");
+	}
 }
