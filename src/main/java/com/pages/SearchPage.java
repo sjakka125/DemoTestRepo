@@ -8,7 +8,7 @@ public class SearchPage {
 	{
 		System.out.println("Search Page method");
 	}
-	public void searchItems()
+	public void searchItems1()
 	{
 		System.out.println("Search Page method");
 	}
